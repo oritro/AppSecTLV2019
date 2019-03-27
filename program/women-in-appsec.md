@@ -7,6 +7,10 @@ The purpose of the Women in AppSec Program is to increase the participation and 
 
 WIA builds opportunity for dedicated female students at both the undergraduate and graduate levels, instructors, developers, and security professionals to expand their careers and collaboratively close the industry-wide skills gap in information and application security.
 
+### Program
+
+<a id="sched-embed" href="https://globalappsectelaviv2019.sched.com/WIA">View the Global AppSec Tel Aviv 2019 program.</a><script type="text/javascript" src="//globalappsectelaviv2019.sched.com/js/embed.js"></script>
+
 *WIA will be offering during the conference:*
 * [complimentary hands- on training class](https://globalappsectelaviv2019.sched.com/event/MLSU/web-application-hacking-with-burp-suite-and-owasp-zap), May 28, 2019.
 * WIA room, May 29-30, MR-4

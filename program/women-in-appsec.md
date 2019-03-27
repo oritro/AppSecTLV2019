@@ -9,7 +9,7 @@ WIA builds opportunity for dedicated female students at both the undergraduate a
 
 ### Program
 
-<a id="sched-embed" href="https://globalappsectelaviv2019.sched.com/WIA">View the Global AppSec Tel Aviv 2019 program.</a><script type="text/javascript" src="//globalappsectelaviv2019.sched.com/js/embed.js"></script>
+<a id="sched-embed" href="https://globalappsectelaviv2019.sched.com/WIA">View the Global AppSec Tel Aviv 2019 WIA program.</a><script type="text/javascript" src="//globalappsectelaviv2019.sched.com/js/embed.js"></script>
 
 *WIA will be offering during the conference:*
 * [complimentary hands- on training class](https://globalappsectelaviv2019.sched.com/event/MLSU/web-application-hacking-with-burp-suite-and-owasp-zap), May 28, 2019.

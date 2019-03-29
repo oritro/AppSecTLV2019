@@ -6,8 +6,17 @@
   - logo: checkmarx.svg
     name: Checkmarx
     url:  https://www.checkmarx.com/
+  - logo: symantec.svg
+    name: Symantec
+    url:  https://www.symantec.com/
+  - logo: whitesource.png
+    name: White Source
+    url:  https://www.whitesourcesoftware.com/
 - type: Silver
   sponsors:
     - logo: htbridge.png
       name: High-Tech Bridge
       url:  https://www.htbridge.com/
+    - logo: cyberark.png
+      name: CyberArk
+      url:  https://www.cyberark.com/

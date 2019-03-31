@@ -15,7 +15,9 @@
   - title: Capture The Flag
     url  : program/capture-the-flag
   - title: University Challenge
-    url  : program/university-challenge
+    url  : program/university-Challenge
+  - title: Networking Event
+    url  : program/networking-event
 - title: Sponsor
   items:
   - title: Sponsoring
@@ -33,7 +35,7 @@
     url  : telaviv/hotels
   - title: Tours
     url  : telaviv/tours
-  - title: Tours
+  - title: Things To Do
     url  : telaviv/things-to-do
 - title: About
   items:

@@ -54,8 +54,7 @@ Check-out: 12:00
 
 </section>
 <section markdown="1">
-### Rothschild 22 - NO LONGER AVAILABLE 
-Rothschild Blvd 22, Tel Aviv-Yafo, 6688218
+### Rothschild 22 - NO LONGER AVAILABLE
 *12 minutes walk from the conference hotel*
 
 |   Room Type   | Single | Double |

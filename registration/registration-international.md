@@ -9,7 +9,7 @@ title: Registration for international visitors
 
 ## Training
 
-The event offers attendees _three, two or one day_ intense training courses by leading cyber, internet, application security specialists from the 26-28 May, 2019 in Tel Aviv. 
+The event offers attendees _three, two or one day_ intense training courses by leading cyber, internet, application security specialists from the 26-28 May, 2019 in Tel Aviv.
 
 <table>
   <thead>
